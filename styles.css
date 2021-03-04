@@ -315,6 +315,10 @@ background-color: #ec823a;
 .development-info{
   font-size: 2.5rem;
 }
+  
+.program-title{
+  font-size: 9vw;
+}
 
 .calendar{
   color: black;
